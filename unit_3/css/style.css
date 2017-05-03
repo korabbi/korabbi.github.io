@@ -1,13 +1,11 @@
 body {
 	background-color: #C4D0D6;
 	text-align: center;
-	color: #fff;
 }
 
 h1, p {
 	color: white;
 	font-family: Century, monospace;
-	text-align: center;
 }
 h1 {
 	font-size: 35px;
@@ -15,9 +13,3 @@ h1 {
 #slogan {
 	font-style: italic;
 }
-hr {
-	width: 200px;
-}
-ul, li {
-	text-align: center;
-	color: white;
