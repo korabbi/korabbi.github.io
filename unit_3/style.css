@@ -4,13 +4,16 @@ body {
 	color: #fff;
 }
 
-h1, p {
+h1, {
 	color: white;
-	font-family: Century, monospace;
+	font-family: Arial;
 	text-align: center;
-}
-h1 {
 	font-size: 35px;
+}
+p {
+	color: white;
+	font-family: Arial;
+	text-align: center;
 }
 #slogan {
 	font-style: italic;
@@ -18,6 +21,7 @@ h1 {
 hr {
 	width: 200px;
 }
-ul, li {
-	text-align: center;
-	color: white;
+div {
+	width: 400px;
+	height: 400px;
+}
