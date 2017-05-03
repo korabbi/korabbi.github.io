@@ -1,0 +1,15 @@
+body {
+	background-color: #C4D0D6;
+	text-align: center;
+}
+
+h1, p {
+	color: white;
+	font-family: Century, monospace;
+}
+h1 {
+	font-size: 35px;
+}
+#slogan {
+	font-style: italic;
+}
