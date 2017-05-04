@@ -1,15 +1,36 @@
 body {
 	background-color: #C4D0D6;
+	color: #fff;
 	text-align: center;
 }
 
-h1, p {
+h1, {
 	color: white;
-	font-family: Century, monospace;
-}
-h1 {
+	font-family: Arial;
 	font-size: 35px;
 }
+
+p {
+	color: white;
+	font-family: Arial;
+}
 #slogan {
-	font-style: italic;
+	text-decoration: italic;
+}
+hr {
+	width: 300px;
+}
+
+ul, li {
+	text-align: left;
+}
+div {
+	width: 400px;
+	height: 200px;
+	margin: 50px;
+	display: inline-block;
+}
+#photo {
+	background: white;
+	
 }
