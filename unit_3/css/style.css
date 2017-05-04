@@ -21,16 +21,20 @@ hr {
 	width: 300px;
 }
 
-ul, li {
-	text-align: left;
+ul {
+	text-align: center;
+	list-style-type: none;
 }
+
 div {
 	width: 400px;
-	height: 200px;
+	height: 250px;
 	margin: 50px;
 	display: inline-block;
+	border: 20px #C4D0D6;
 }
 #photo {
+
 	background: white;
 	
 }
