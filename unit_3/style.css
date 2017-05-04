@@ -1,27 +1,19 @@
 body {
 	background-color: #C4D0D6;
-	text-align: center;
 	color: #fff;
 }
 
 h1, {
 	color: white;
 	font-family: Arial;
-	text-align: center;
 	font-size: 35px;
 }
+
 p {
 	color: white;
 	font-family: Arial;
 	text-align: center;
 }
 #slogan {
-	font-style: italic;
-}
-hr {
-	width: 200px;
-}
-div {
-	width: 400px;
-	height: 400px;
+	text-decoration: italic;
 }
