@@ -6,13 +6,11 @@ body {
 
 h1, {
 	color: white;
-	font-family: Arial;
 	font-size: 35px;
 }
 
 p {
 	color: white;
-	font-family: Arial;
 }
 #slogan {
 	text-decoration: italic;
@@ -33,8 +31,4 @@ div {
 	display: inline-block;
 	border: 20px #C4D0D6;
 }
-#photo {
 
-	background: white;
-	
-}
