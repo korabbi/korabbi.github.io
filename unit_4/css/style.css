@@ -15,6 +15,9 @@ body {
 nav{
 	margin:10px;
 	align-content: center;
+	padding-top: 50px;
+	vertical-align: top;
+	display: inline-block;
 }
 
 img{
@@ -70,4 +73,7 @@ ul {
     margin-right: 0;
     padding-left: 40px;
     font-family: 'Raleway', sans-serif;
+}
+#logo {
+	width:30%;
 }
