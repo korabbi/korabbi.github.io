@@ -176,4 +176,8 @@ footer p {
 		width: auto;
 		display: block;
 	}
+	footer p {
+		float: none;
+		width: auto;
+	}
 }
